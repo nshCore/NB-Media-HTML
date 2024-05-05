@@ -149,7 +149,7 @@
   flex-direction: column;
   background-size: cover;
   justify-content: center;
-  background-image: "public/external/416c71_a14248494650405ca4f50174753e94cf~mv2.jpg";
+  background-image: "/public/external/416c71_a14248494650405ca4f50174753e94cf~mv2.jpg";
   background-repeat: top,no-repeat;
   background-position: top lefttop left,center;
 }
